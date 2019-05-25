@@ -14,4 +14,25 @@ h2 {
   font-weight: 400;
   font-size: 2.500em;
   text-align: center;
+  color: #000000;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+h5 {
+  font-family: Barrio, cursive;
+  font-weight: 400;
+}
+
+.designer {
+  font-family: Barrio, cursive;
+  font-weight: 400;
+}
+
+h3 {
+  font-family: Open Sans, sans-serif;
+  font-weight: 700;
 }

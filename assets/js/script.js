@@ -1,12 +1,11 @@
 $(function () {
-  $('[data-toggle="tooltip"]').tooltip()
-})
+  $('[data-toggle="tooltip"]').tooltip();
 
-$('#example').tooltip(options)
 
-$('.carousel').carousel()
 
-$(function(){
+
+  $('.carousel').carousel()
+
 
   $("a").click(function(event){
     if (this.hash !== "") {
@@ -18,8 +17,7 @@ $(function(){
         scrollTop: $(gato).offset().top
       }, 800, function(){
         window.location.hash = gato;
-        });
-      }
-    });
-
-});
+      });
+    }
+  });
+})
