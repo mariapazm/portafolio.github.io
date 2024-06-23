@@ -1,3 +1,9 @@
+body {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 header h1 {
   font-family: Barrio, cursive;
   font-weight: 400;
