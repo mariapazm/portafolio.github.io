@@ -23,6 +23,12 @@ h2 {
   font-weight: 400;
 }
 
+.bgcolor {
+  background-color: #2C365E;
+  font-family: Libre Franklin;
+
+}
+
 .nombre {
   font-family: Barrio, cursive;
   font-weight: 400;
@@ -37,8 +43,9 @@ a {
 }
 
 h5 {
-  font-family: Barrio, cursive;
+  font-family: Libre Franklin;
   font-weight: 400;
+  color:#2C365E;
 }
 
 .designer {
