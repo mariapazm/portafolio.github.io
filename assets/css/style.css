@@ -8,16 +8,19 @@ body {
 .color {
   font-family: Libre Franklin;
 }
-
-header h1 {
-  font-family: Barrio, cursive;
-  font-weight: 400;
-  font-size: 4.500em;
+#Hero-Section {
+  background-image: url("../img/header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  font-family: libre franklin;
+  color: #2C365E;
+  background-color: #F8F9FA;
 }
 
 h2 {
-  font-family: Open Sans, sans-serif;
-  font-weight: 700;
+  font-family: libre franklin; s
+  font-weight: 400;
 }
 
 .nombre {
