@@ -9,7 +9,7 @@ body {
   font-family: Libre Franklin;
 }
 #Hero-Section {
-  background-image: url("../img/header.jpg");
+  background-image: url("../img/headerbg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -26,9 +26,11 @@ h2 h3 {
 .bgcolor {
   background-color: #2C365E;
   font-family: Libre Franklin;
-
 }
 
+.malva {
+color: #C47AC0
+}
 .nombre {
   font-family: Libre Franklin;
   font-weight: 400;
