@@ -18,8 +18,8 @@ body {
   background-color: #F8F9FA;
 }
 
-h2 {
-  font-family: libre franklin; s
+h2 h3 {
+  font-family: libre franklin;
   font-weight: 400;
 }
 
@@ -30,11 +30,11 @@ h2 {
 }
 
 .nombre {
-  font-family: Barrio, cursive;
+  font-family: Libre Franklin;
   font-weight: 400;
   font-size: 2.500em;
-  text-align: center;
-  color: #000000;
+  text-align: right;
+  color: #2C365E;
 }
 
 a {
@@ -48,12 +48,4 @@ h5 {
   color:#2C365E;
 }
 
-.designer {
-  font-family: Barrio, cursive;
-  font-weight: 400;
-}
 
-h3 {
-  font-family: Open Sans, sans-serif;
-  font-weight: 700;
-}
